@@ -1,4 +1,4 @@
-(defproject clj-maxmind-geoip "0.1.0-SNAPSHOT"
+(defproject org.clojars.guilespi/clj-maxmind-geoip "0.1.0"
   :description "A thin wrapper around Maxmind's GeoIP Java API."
   :url "http://github.com/philc/clj-maxmind-geoip"
   :license {:name "Eclipse Public License"
